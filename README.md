@@ -6,7 +6,7 @@ A small game made with bevy engine.
 
 * Just clone or download this repository to your machine and run the project:
 ```bash
-git clone https://github.com/luansapelli/gfx-foundation.git
+git clone https://github.com/luansapelli/asteroids.git
 ```
 
 ```bash
